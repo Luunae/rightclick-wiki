@@ -1,4 +1,6 @@
-package com.example;
+package com.rightclickwiki;
+
+import com.rightclickwiki.RightClickWikiPlugin;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
